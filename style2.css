@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    height: 100px;
+    background-color: aliceblue;
+}
+.s{
+    background-color:rgb(23, 191, 115);
+    width: 450px;
+    height: 200px;
+}
+.c{
+background-color: rgb(14, 128, 86);
+width: 100px;
+height: 100px;
+border-radius: 50%;
+margin-top:70;
+margin-left: 170;
+
+}
+#gm{
+    font-style: italic;
+    color: rgb(98, 11, 115);
+    margin-top: 50px;
+}
+#tc{
+   font-style: italic;
+   color: darkgreen;
+   
+}
+
+
